@@ -1,0 +1,52 @@
+# of articles: 22312
+# of words: 26915802
+# unique words = 235889
+sd: 2141.4607694923384
+median: 533.0
+year: 2019
+num_comments: 8881
+year: 2020
+num_comments: 7162
+year: 2018
+num_comments: 3874
+year: 2001
+num_comments: 42
+year: 2016
+num_comments: 425
+year: 2012
+num_comments: 123
+year: 2015
+num_comments: 380
+year: 2013
+num_comments: 174
+year: 2017
+num_comments: 1223
+year: 2014
+num_comments: 306
+year: 2011
+num_comments: 92
+year: 2000
+num_comments: 42
+year: 2007
+num_comments: 48
+year: 2006
+num_comments: 17
+year: 1999
+num_comments: 21
+year: 2010
+num_comments: 51
+year: 2004
+num_comments: 28
+year: 2002
+num_comments: 24
+year: 2005
+num_comments: 24
+year: 2009
+num_comments: 50
+year: 1998
+num_comments: 11
+year: 2008
+num_comments: 44
+year: 2003
+num_comments: 25
+
